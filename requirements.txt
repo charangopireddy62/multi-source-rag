@@ -1,0 +1,21 @@
+# UI
+streamlit
+
+# Core RAG + LLM
+langchain
+sentence-transformers
+openai
+faiss-cpu
+llama-index
+
+# Data ingestion
+pdfplumber
+beautifulsoup4
+requests
+pandas
+numpy
+
+# Environment & utilities
+python-dotenv
+tqdm
+rich
