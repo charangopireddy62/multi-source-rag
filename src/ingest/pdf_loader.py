@@ -10,5 +10,5 @@ def extract_text_from_pdf(pdf_path: str) -> str:
     return text.strip()
 
 if __name__ == "__main__":
-    sample_pdf = Path("data/pdfs/sample.pdf")
+    sample_pdf = Path("data/sample.pdf")
     print(extract_text_from_pdf(sample_pdf))
